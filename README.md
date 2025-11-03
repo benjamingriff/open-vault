@@ -1,1 +1,1 @@
-# open-vault
+# Open Vault
