@@ -12,7 +12,6 @@ to your global `.gitignore` so it’s ignored in all repositories.
 ## 1) Create or open your global ignore file
 
   ```bash
-  ```bash
   touch ~/.gitignore_global
   ```
 
