@@ -12,13 +12,13 @@ to your global `.gitignore` so it’s ignored in all repositories.
 ## 1) Create or open your global ignore file
 
   ```bash
-  touch ~/.gitignore_global
+touch ~/.gitignore_global
   ```
 
 ## 2) Tell Git to use it (if not already)
 
 ```bash    
-  git config --global core.excludesfile ~/.gitignore_global
+git config --global core.excludesfile ~/.gitignore_global
   ```
 
 ## 3) Add the pattern
