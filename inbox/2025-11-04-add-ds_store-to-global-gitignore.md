@@ -1,7 +1,7 @@
 ---
 id: 2025-11-04-add-ds_store-to-global-gitignore
-aliases: []
 tags: []
+hubs: []
 ---
 
 # Add .DS_Store to Your Global .gitignore
